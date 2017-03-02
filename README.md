@@ -1,2 +1,5 @@
 # hello-world
-Learning is Caring
+
+This is a new beautiful and motivational beginning.
+
+Peace :)
